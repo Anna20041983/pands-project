@@ -27,6 +27,7 @@ This project contains an analysis of the Fisher's Iris Data Set. The analysis is
 6. Results interpretation 
 
 ## Inspiration
+- Iris Data Set: http://archive.ics.uci.edu/ml/datasets/Iris
 - Plot types inspirations: https://matplotlib.org/stable/plot_types
 - Plot style inspirations: https://realpython.com/visualizing-python-plt-scatter/
 - How to analyse the data inspirations: 
