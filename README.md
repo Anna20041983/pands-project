@@ -3,16 +3,19 @@
 **Version 1.0.0**
 
 ## Description
+This project contains an analysis of the Fisher's Iris Data Set. The analysis is done by using plots and statistical measures in Python. 
 
 ## A list of items in the Pands-Project:
-1. Reading the Iris Data Set
-2. Summary of the Iris Data Set
-3. Data visualisation using different plots
-    - histogram
-    - boxplots
-    - scatters
-    - violiplots
-4. Statistical measures of The Iris Data Set
+1. Fisher's Iris Data Set
+2. Analysis of this data using Python as an analysis tool:
+    1. Reading the Iris Data Set
+    2. Summary of the Iris Data Set
+    3. Data visualisation using different plots
+        - histogram
+        - boxplots
+        - scatters
+        - violiplots
+    4. Statistical measures of The Iris Data Set
     Statistical Measures are a technique of descriptive analysis used to give a summary of the characteristics of a data set. Measures of central tendency describe some key characteristics of the data set based on the average or middle values, as they describe the centre of the data.
 
 ## How to analyse Data with Python:
