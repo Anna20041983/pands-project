@@ -11,7 +11,6 @@ data = pd.read_csv('Iris-Data-Set.csv')
 # Show histogram for all 4 columns
 data [['sepal_length', 'sepal_width', 'petal_length', 'petal_width']].hist()
 
-plt.title('Histogram of the Iris Data Set')
 plt.show()
 
 # Resource: https://regenerativetoday.com/exploratory-data-analysis-visualization-prediction-model-in-python/

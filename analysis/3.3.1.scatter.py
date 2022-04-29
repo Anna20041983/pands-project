@@ -18,10 +18,10 @@ plt.scatter(data1['sepal_length'],data1['sepal_width'],color='yellow',label='Iri
 plt.scatter(data2['sepal_length'],data2['sepal_width'],color='orange',label='Iris Versicolor')
 plt.scatter(data3['sepal_length'],data3['sepal_width'],color='red',label='Iris Virginica')
 
-# Print scatter for Sepal Lenght and Width
-plt.xlabel('sepal_lenght')
+# Print scatter for Sepal Length and Width
+plt.xlabel('sepal_length')
 plt.ylabel('sepal_width')
-plt.title ('Sepal lenght & Sepal width scatter')
+plt.title ('Sepal length & Sepal width scatter')
 plt.legend()
 plt.show()
 

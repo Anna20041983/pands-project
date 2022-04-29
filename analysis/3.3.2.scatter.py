@@ -18,9 +18,9 @@ plt.scatter(data1['petal_length'],data1['petal_width'],color='yellow',label='Iri
 plt.scatter(data2['petal_length'],data2['petal_width'],color='orange',label='Iris Versicolor')
 plt.scatter(data3['petal_length'],data3['petal_width'],color='red',label='Iris Virginica')
 
-# Print scatter for Petal Lenght and Width
-plt.xlabel('petal_lenght')
+# Print scatter for Petal Length and Width
+plt.xlabel('petal_length')
 plt.ylabel('petal_width')
-plt.title ('Petal lenght & Petal width scatter')
+plt.title ('Petal length & Petal width scatter')
 plt.legend()
 plt.show()
