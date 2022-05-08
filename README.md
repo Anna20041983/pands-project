@@ -21,6 +21,12 @@ The Iris Data Set was created by R.A. Fisher and it is called the best well know
     4. Statistical measures of The Iris Data Set
     Statistical Measures are a technique of descriptive analysis used to give a summary of the characteristics of a data set. Measures of central tendency describe some key characteristics of the data set based on the average or middle values, as they describe the centre of the data.
 
+## How to use these:
+1. Go to each individual code (from 1 to 4)
+2. In code nr 1 "readingdata.py" and nr 2 "summaryofdata" sipmly run these codes in Python and the tables will print there
+3. In codes nr 3 simply run these codes in Python and plots will show up automatically as png files
+4. In code nr 4 "statistics.py", similar like in code nr 1 and 2, simply run this code and the tables will appear in Python
+
 ## How to analyse Data with Python:
 1. Ask the right questions
 2. Data collection
