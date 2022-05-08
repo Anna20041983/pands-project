@@ -5,6 +5,9 @@
 ## Description
 This project contains an analysis of the Fisher's Iris Data Set. The analysis is done by using plots and statistical measures in Python. 
 
+## Background
+The Iris Data Set was created by R.A. Fisher and it is called the best well known data set with no missing values. It contains the data for 3 classes of Iris Flowers of 50 instances each.
+
 ## A list of items in the Pands-Project:
 1. Fisher's Iris Data Set
 2. Analysis of this data using Python as an analysis tool:
